@@ -1,0 +1,39 @@
+
+.howitworks{
+    background-color: #8d4a2336;
+    height: 720px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.Steps{
+   width: 95%;
+   height: 80%;
+   background-color: #8d4a2300;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+}
+
+.stepsin{
+    width: 20%;
+    height: 70%;
+    border-radius: 50px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.stepsin div{
+    width: 80%;
+    text-align: center;    
+}
+
+.stepsin svg{
+    color: #8d4a23a1;
+}
